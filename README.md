@@ -1,2 +1,2 @@
-# kof-chapter2
-king of fighter chapter 2
+# King Of Fighters
+a eos tiny game
